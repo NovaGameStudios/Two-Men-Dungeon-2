@@ -1,0 +1,20 @@
+
+Layer System
+
+8	Background
+7.5	Player, Physics Objects (Boxes, etc.)
+7	Particle FX
+6.5	Lava
+6	Solid Sprites, Overlays
+5.5
+5
+4.5
+4	Lava, ShadowMaker (Z-Scale: 8)
+3.5
+3
+2.5
+2
+1.5
+1
+0.5
+0	Canvas, Menu

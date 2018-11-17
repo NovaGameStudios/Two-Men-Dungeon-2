@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - JumpPad
+  - Teleport
+  - Ziel
+  - Global
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Background
+  - 
+  - 
+  - 
+  - Player01
+  - Player02
+  - Solid Wall
+  - Physics Object
+  - Buoyancy
+  - Lava
+  - 
+  - JumpPad
+  - 
+  - Solid 3D Wall
+  - Sprite Overlay
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4294426411
+    locked: 0
+  - name: World
+    uniqueID: 3875898129
+    locked: 0
+  - name: Physics Object
+    uniqueID: 2577609119
+    locked: 0
+  - name: Effects
+    uniqueID: 807683371
+    locked: 0
+  - name: Player
+    uniqueID: 365585313
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 3178503899
+    locked: 0
+  - name: Canvas
+    uniqueID: 1963489311
+    locked: 0
+  - name: Game Menu
+    uniqueID: 2101758243
+    locked: 0
+  - name: Loading Screen
+    uniqueID: 1909216393
+    locked: 0
